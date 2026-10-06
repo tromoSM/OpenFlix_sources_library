@@ -1,0 +1,15 @@
+{
+    "tip":"use a service like jsdelivr to serve the files",
+    "sources":[
+        {
+            "name":"source library test",
+            "url":"https://cdn.jsdelivr.net/gh/tromoSM/openflix_sources_demo@refs/heads/main/sources/",
+            "by":"OpenFlix"
+        },
+        {
+            "name":"source library test v2",
+            "url":"https://cdn.jsdelivr.net/gh/tromoSM/openflix_sources_demo@refs/heads/main/sources/",
+            "by":"OpenFlix"
+        }
+    ]
+}
